@@ -1,0 +1,45 @@
+# Unity Master Challenge - Website AutoNFT Documentation
+
+## Project Overview
+
+The Unity Master Challenge - Website AutoNFT is a unique, interactive, and user-friendly web application that uses Unity to automatically generate NFTs based on user inputs or interactions. The application is hosted on a website and uses blockchain technology to mint the NFTs.
+
+## NFT Generation
+
+The NFTs are generated using a unique algorithm developed specifically for this project. This algorithm takes into account the user's interactions within the Unity application to determine the attributes of the NFT. Each NFT has unique traits and attributes, making each one a one-of-a-kind digital asset.
+
+## User Interaction
+
+Users interact with elements or games within the Unity application. The outcomes of these interactions contribute to the characteristics of the NFT. For example, the speed at which a user completes a game or the choices they make within the game could influence the color, shape, or other attributes of the NFT.
+
+## Blockchain Integration
+
+The NFTs are minted on a blockchain, such as Ethereum or Binance Smart Chain. We have integrated smart contracts to handle the NFT creation process, ensuring that each NFT is securely and effectively created and owned by the user.
+
+## Web Integration
+
+The Unity application is hosted on a user-friendly, responsive, and visually appealing website. This allows users to easily interact with the application and generate their own NFTs.
+
+## Testing and Optimization
+
+We have conducted thorough testing for bugs, performance issues, and user experience. We have then optimized the Unity application and website for smooth operation, ensuring that users have a seamless and enjoyable experience while generating their NFTs.
+
+## File Structure
+
+The project consists of the following files:
+
+- `concept.txt`: Contains the overall concept of the project.
+- `unityProject/unityScripts.cs`: Contains the Unity scripts that define the attributes of the NFT and the user interactions that influence these attributes.
+- `unityProject/unityScenes.unity`: Contains the Unity scenes where the user interactions take place.
+- `unityProject/unityPrefabs.prefab`: Contains the Unity prefabs used in the scenes.
+- `webFiles/index.html`: The main HTML file for the website that hosts the Unity application.
+- `webFiles/styles.css`: Contains the CSS styles for the website.
+- `webFiles/main.js`: Contains the JavaScript code for the website.
+- `blockchainFiles/smartContract.sol`: Contains the smart contract for minting the NFTs on the blockchain.
+- `unityProject/autoNFTAlgorithm.cs`: Contains the algorithm that automatically generates the NFTs based on the user interactions.
+- `testingFiles/unitTests.cs`: Contains the unit tests for the project.
+- `videoDemonstration.mp4`: A video demonstration of the project.
+
+## Conclusion
+
+The Unity Master Challenge - Website AutoNFT combines game development, web technology, and blockchain to create a unique and innovative NFT generation experience for users. We believe this project showcases the potential of these technologies when used together in a creative and innovative way.

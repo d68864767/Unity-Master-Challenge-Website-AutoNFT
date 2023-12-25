@@ -1,0 +1,34 @@
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PrefabScript : MonoBehaviour
+{
+    // Reference to the UnityScripts component
+    private UnityScripts unityScripts;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        // Get the UnityScripts component
+        unityScripts = GetComponent<UnityScripts>();
+
+        // Check if the UnityScripts component is attached to the prefab
+        if (unityScripts == null)
+        {
+            Debug.LogError("UnityScripts component is not attached to the prefab.");
+        }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        // Call the GenerateNFT function from the UnityScripts component
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            unityScripts.GenerateNFT();
+        }
+    }
+}
+```

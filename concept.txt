@@ -1,0 +1,27 @@
+Title: Unity Master Challenge - Website AutoNFT
+
+Concept Overview:
+
+The concept of our project is to create a unique, interactive, and user-friendly web application that uses Unity to automatically generate NFTs based on user inputs or interactions. The application will be hosted on a website and will use blockchain technology to mint the NFTs.
+
+NFT Generation:
+
+The NFTs will be generated using a unique algorithm that we will develop. This algorithm will take into account the user's interactions within the Unity application to determine the attributes of the NFT. Each NFT will have unique traits and attributes, making each one a one-of-a-kind digital asset.
+
+User Interaction:
+
+The user will interact with elements or games within the Unity application. The outcomes of these interactions will contribute to the characteristics of the NFT. For example, the speed at which a user completes a game or the choices they make within the game could influence the color, shape, or other attributes of the NFT.
+
+Blockchain Integration:
+
+The NFTs will be minted on a blockchain, such as Ethereum or Binance Smart Chain. We will integrate smart contracts to handle the NFT creation process, ensuring that each NFT is securely and effectively created and owned by the user.
+
+Web Integration:
+
+The Unity application will be hosted on a user-friendly, responsive, and visually appealing website. This will allow users to easily interact with the application and generate their own NFTs.
+
+Testing and Optimization:
+
+We will conduct thorough testing for bugs, performance issues, and user experience. We will then optimize the Unity application and website for smooth operation, ensuring that users have a seamless and enjoyable experience while generating their NFTs.
+
+This concept combines game development, web technology, and blockchain to create a unique and innovative NFT generation experience for users.
